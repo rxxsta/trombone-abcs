@@ -1,6 +1,6 @@
 # trombone-abcs
-A library of songs I like for the Trombone in ABC notation
-Docs: https://abcnotation.com/wiki/abc:standard:v2.1
+A library of songs I like for the Trombone in ABC notation  
+Docs: https://abcnotation.com/wiki/abc:standard:v2.1  
 Tool: https://michaeleskin.com/abctools/abctools.html
 
 
